@@ -1,5 +1,5 @@
 name = "archie"
-compatibility_date = "2028-07-31"
+compatibility_date = "2026-02-17"
 
 [build]
 command = "chmod a+x build.sh && ./build.sh"
